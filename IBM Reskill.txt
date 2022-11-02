@@ -35,3 +35,8 @@ https://www.jenkins.io/download/
 https://localhost::8080
 
 0226740177a94496af64eabd53ed7327
+
+
+https://www.eclipse.org/downloads/packages/
+
+
