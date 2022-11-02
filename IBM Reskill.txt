@@ -1,0 +1,37 @@
+moculedy@cyclelove.cc
+Tandralaha@11
+
+https://id.atlassian.com/logout?continue=https%3A%2F%2Fsri91.atlassian.net
+
+https://tempmailo.com/
+https://www.atlassian.com/software/jira/free?&aceid=&adposition=&adgroup=142327015912&campaign=18442427682&creative=624433544316&device=c&keyword=jira&matchtype=p&network=g&placement=&ds_kids=p73343394343&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMIiqfAj6OC-wIVkDUrCh3rqQOdEAAYASABEgJ2d_D_BwE&gclsrc=aw.ds
+
+
+
+Git Hub 
+
+https://git-scm.com/downloads
+https://github.com/
+
+pwd - Tandralaha@1511
+username - sritapalaha
+mail - lahasritapa@gmail.com
+
+git config --global user.name "username"
+git config --global user.eamil "emailAddress"
+git init
+git add *
+git status
+git commit -m "firstCommit"
+git remote add origin https://github.com/sritapalaha/Reskill_Git_311021.git
+git push -u origin master
+
+=========================================
+Jenkins
+
+CI CD - Continuous integration & Continuous Development tool
+
+https://www.jenkins.io/download/
+https://localhost::8080
+
+0226740177a94496af64eabd53ed7327
